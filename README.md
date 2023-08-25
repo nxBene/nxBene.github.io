@@ -63,7 +63,7 @@
     }, 1000);
 
     setTimeout(function() {
-      window.location.href = "https://nxBene.repl.co";
+      window.location.href = "https://page.nxBene.repl.co";
     }, 1100);
   </script>
 </body>
