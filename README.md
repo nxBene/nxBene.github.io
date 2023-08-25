@@ -2,7 +2,6 @@
 
 <html>
 <head>
-  <title>Redirecting...</title>
   <style>
     body {
       font-family: Arial, sans-serif;
