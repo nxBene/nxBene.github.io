@@ -2,9 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
-  <!--<meta http-equiv="refresh" content="2; url=index.html">-->
   <title>Redirecting...</title>
   <style>
     body {
@@ -36,7 +34,6 @@
     }
   </style>
 </head>
-
 <body>
   <h1>Redirecting...</h1>
   <p>Redirecting to Discord. If you're stuck on this page, click <a href="https://discord.gg/7JDDk22cD">here</a>.</p>
@@ -48,7 +45,7 @@
     $(document).ready(function() {
       $.get("besucher.php");
     });
-
+    
     var url = window.location.href;
     var pageName = url.substring(url.lastIndexOf("/") + 1, url.lastIndexOf(".html"));
     document.getElementById("pageName").textContent = pageName;
@@ -72,5 +69,4 @@
     }, 1100);
   </script>
 </body>
-
 </html>
