@@ -36,7 +36,7 @@
 </head>
 <body>
   <h1>Redirecting...</h1>
-  <p>Redirecting to Discord. If you're stuck on this page, click <a href="https://discord.gg/7JDDk22cD">here</a>.</p>
+  <p>Redirecting to my Homepage If you're stuck on this page, click <a href="https://page.nxBene.repl.co">here</a>.</p>
   <p class="affiliate-link">You are getting sent to <span id="pageName"></span></p>
   <h4 class="timer-label"><span>Time on page:</span> <span id="timer"> calculating </span> seconds</h4>
 
@@ -65,7 +65,7 @@
     }, 1000);
 
     setTimeout(function() {
-      window.location.href = "https://discord.gg/7JDDk22cD";
+      window.location.href = "https://nxBene.repl.co";
     }, 1100);
   </script>
 </body>
