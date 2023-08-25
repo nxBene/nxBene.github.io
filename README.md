@@ -1,6 +1,3 @@
-# nxBene.github.io
-
-<!DOCTYPE html>
 <html>
 <head>
   <title>Redirecting...</title>
